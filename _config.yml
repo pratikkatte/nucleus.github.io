@@ -2,11 +2,9 @@ title: Nucleus
 description: The Ultimate IDE for Bioinformaticians!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
 aux_links:
   "Github":
-    - "https://github.com/Nucleus-Bio/nucleus"
+    - "https://github.com/pratikkatte/Nucleus"
   "Blogs":
     - "docs/blogs"
 
@@ -27,6 +25,7 @@ heading_anchors: true
 aux_links_new_tab: true
 
 nav_enabled: true
+
 
 exclude:
   - docs/blogs

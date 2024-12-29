@@ -1,23 +1,58 @@
 {"0": {
-    "doc": "Home",
-    "title": "The Ultimate IDE for Bioinformaticians",
-    "content": "A tool for bioinformaticians – software developers have visual studio code, Bioinformaticians have nucleus. ",
-    "url": "/#the-ultimate-ide-for-bioinformaticians",
+    "doc": "Usage",
+    "title": "Usage",
+    "content": "Usage . ",
+    "url": "/docs/Usage/",
     
-    "relUrl": "/#the-ultimate-ide-for-bioinformaticians"
+    "relUrl": "/docs/Usage/"
   },"1": {
+    "doc": "Home",
+    "title": "The Ultimate Tool for Bioinformaticians",
+    "content": "A tool for bioinformaticians – Just as software developers have Visual Studio Code, bioinformaticians now have Nucleus. Nucleus is designed to simplify bioinformatics workflows by integrating powerful language models with essential bioinformatics tools. ",
+    "url": "/#the-ultimate-tool-for-bioinformaticians",
+    
+    "relUrl": "/#the-ultimate-tool-for-bioinformaticians"
+  },"2": {
+    "doc": "Home",
+    "title": "Installation",
+    "content": "pip install nucleus-bio . ",
+    "url": "/#installation",
+    
+    "relUrl": "/#installation"
+  },"3": {
+    "doc": "Home",
+    "title": "Getting Started",
+    "content": "# Navigate to your desired project directory. cd /to/your/project # Nucleus currently supports OpenAI and Anthropic models. # Use OpenAI 4o on your files nucleus --model openai --openai-api-key your-key-goes-here # Use Claude 3.5 Sonnet on your files aider --model sonnet --anthropic-api-key your-key-goes-here . Refer to usage documentation for more details. ",
+    "url": "/#getting-started",
+    
+    "relUrl": "/#getting-started"
+  },"4": {
+    "doc": "Home",
+    "title": "Features",
+    "content": ". | Ask for queries related to bioinformatic tools and commands. | Visualizae bamfile on jbrowse. (for now just bam files.) | . ",
+    "url": "/#features",
+    
+    "relUrl": "/#features"
+  },"5": {
+    "doc": "Home",
+    "title": "Upcoming Features",
+    "content": ". | Support for additional bioinformatics file formats. | Search and download bioinformatics datasets directly. | Integration of BioWASM tools to eliminate the need for local installation of bioinformatics software. | . ",
+    "url": "/#upcoming-features",
+    
+    "relUrl": "/#upcoming-features"
+  },"6": {
+    "doc": "Home",
+    "title": "Kind words from users",
+    "content": " ",
+    "url": "/#kind-words-from-users",
+    
+    "relUrl": "/#kind-words-from-users"
+  },"7": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"2": {
-    "doc": "Installation",
-    "title": "Installation",
-    "content": "Installation Instruction . ",
-    "url": "/docs/installation/",
-    
-    "relUrl": "/docs/installation/"
   }
 }
