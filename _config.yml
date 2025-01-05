@@ -1,7 +1,7 @@
 title: Nucleus
 description: The Ultimate IDE for Bioinformaticians!
 theme: just-the-docs
-
+baseurl: "" # Leave this empty if the site is served from the root.
 aux_links:
   "Github":
     - "https://github.com/pratikkatte/Nucleus"

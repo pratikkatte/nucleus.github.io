@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-## The Ultimate Tool for Bioinformaticians
+## A Tool for Bioinformaticians
 
 A tool for bioinformaticians – Just as software developers have Visual Studio Code, bioinformaticians now have Nucleus.
 
